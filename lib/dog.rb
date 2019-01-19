@@ -6,6 +6,6 @@ class Dog
     @breed=breed
   end
 def breed (breed= "Mutt")
-
+@breed
 end
 end
